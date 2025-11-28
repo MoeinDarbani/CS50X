@@ -13,6 +13,7 @@ Each problem set is organized in its own folder:
 - `pset6/` — Python versions of earlier problem sets
 - `pset7/` — SQL
 - `pset8/` — HTML, CSS, JavaScript
+- `pset9/` — Flask
 - `final_project/` — My final project for CS50x
 
 ## 🎯 Purpose
